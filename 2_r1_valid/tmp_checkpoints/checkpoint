@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/jupyter/att_DeepPATH/DeepPATH_code_att/02_testing/xClasses/2_r1_valid/tmp_checkpoints/model.ckpt-335800"
+all_model_checkpoint_paths: "/home/jupyter/att_DeepPATH/DeepPATH_code_att/02_testing/xClasses/2_r1_valid/tmp_checkpoints/model.ckpt-335800"

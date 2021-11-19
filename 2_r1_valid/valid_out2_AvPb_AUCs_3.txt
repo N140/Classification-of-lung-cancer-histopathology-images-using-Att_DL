@@ -1,0 +1,1 @@
+/home/jupyter/att DeepPATH/DeepPATH code att/02 testing/xClasses/2 r1 valid/ 335800 auc 0.9909 CIs 0.9851 0.9959 t0.484626
